@@ -1,0 +1,82 @@
+{
+  "db6a8eaa88d1767584dd70727f3b7597ffe2e95328e8ef7d8bc01eb488473811": {
+    "bridge_tool": "polymerStandard",
+    "execution_duration_sec": 1080,
+    "gas_cost_usd": 0.0106,
+    "fee_cost_usd": 24.994,
+    "total_migration_cost_usd": 25.0046,
+    "from_amount_usd": 9997.6,
+    "to_amount_usd": 9972.606,
+    "quote_source": "api"
+  },
+  "fd51c9062366e356235f31d90d73b87d31b488af609970a3c5921834557b4e5d": {
+    "bridge_tool": "polymerStandard",
+    "execution_duration_sec": 1080,
+    "gas_cost_usd": 0.0119,
+    "fee_cost_usd": 24.994,
+    "total_migration_cost_usd": 25.0059,
+    "from_amount_usd": 9997.6,
+    "to_amount_usd": 9972.606,
+    "quote_source": "api"
+  },
+  "f03b0e23d37341c0685bb71b24d3bc100116c169a61063d23590f488c0164bb5": {
+    "bridge_tool": "celercircle",
+    "execution_duration_sec": 988,
+    "gas_cost_usd": 0.8838,
+    "fee_cost_usd": 25.094,
+    "total_migration_cost_usd": 25.977800000000002,
+    "from_amount_usd": 9997.6,
+    "to_amount_usd": 9972.506,
+    "quote_source": "api"
+  },
+  "4acb85eac15216967bc21cd48a12fcd65be79de4d9828cbcc34d34a51970f47e": {
+    "bridge_tool": "celercircle",
+    "execution_duration_sec": 960,
+    "gas_cost_usd": 0.8838,
+    "fee_cost_usd": 25.094,
+    "total_migration_cost_usd": 25.977800000000002,
+    "from_amount_usd": 9997.6,
+    "to_amount_usd": 9972.506,
+    "quote_source": "api"
+  },
+  "f0af2dd0e2bf4c58128ca663e55b68703e180f170c018010a5bfc880979aab79": {
+    "bridge_tool": "polymerStandard",
+    "execution_duration_sec": 1080,
+    "gas_cost_usd": 0.0105,
+    "fee_cost_usd": 24.994,
+    "total_migration_cost_usd": 25.0045,
+    "from_amount_usd": 9997.6,
+    "to_amount_usd": 9972.606,
+    "quote_source": "api"
+  },
+  "0753f418ef5900207d5c7af4c2b9d48ff1230f480886efa166b85f06f37f76ab": {
+    "bridge_tool": "polymerStandard",
+    "execution_duration_sec": 1080,
+    "gas_cost_usd": 0.0105,
+    "fee_cost_usd": 24.994,
+    "total_migration_cost_usd": 25.0045,
+    "from_amount_usd": 9997.6,
+    "to_amount_usd": 9972.606,
+    "quote_source": "api"
+  },
+  "5948dd6cdd6e8f9f23d5829c64f2ba9fc7b9a1c42f0d12ee61a8413f97664186": {
+    "bridge_tool": "polymerStandard",
+    "execution_duration_sec": 1080,
+    "gas_cost_usd": 0.0105,
+    "fee_cost_usd": 24.994,
+    "total_migration_cost_usd": 25.0045,
+    "from_amount_usd": 9997.6,
+    "to_amount_usd": 9972.606,
+    "quote_source": "api"
+  },
+  "3f01200831cd5ba8b10c1491516d9d597a1a491929b30414fb8e1bc35febe312": {
+    "bridge_tool": "polymerStandard",
+    "execution_duration_sec": 1080,
+    "gas_cost_usd": 0.0119,
+    "fee_cost_usd": 24.994,
+    "total_migration_cost_usd": 25.0059,
+    "from_amount_usd": 9997.6,
+    "to_amount_usd": 9972.606,
+    "quote_source": "api"
+  }
+}

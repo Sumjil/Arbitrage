@@ -143,7 +143,11 @@ else:
         "quote_source",
     ]
 
-    st.dataframe(signals_df[display_cols], width="stretch", hide_index=True)
+    st.dataframe(
+    signals_df[display_cols],
+    use_container_width=True,
+    hide_index=True
+    )
 
     st.download_button(
         label="Download CSV",
