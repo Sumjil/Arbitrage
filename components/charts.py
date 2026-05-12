@@ -46,4 +46,4 @@ def render_historical_apy_chart(filtered):
         .interactive()
     )
 
-    st.altair_chart(chart, width="stretch")
+    st.altair_chart(chart, use_container_width=True)
